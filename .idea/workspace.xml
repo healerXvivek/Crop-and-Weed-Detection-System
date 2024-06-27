@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0093fdf8-ceb6-4a5e-956b-3e67ed504776" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/cfg/crop_weed.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/detection/detection.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/detection/detection_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/detection/detection_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/crop_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/crop_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/crop_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/crop_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/weed_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/weed_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/weed_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/weed_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/weed_5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/images/weed_6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/names/obj.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/weights/Add trained weight file here.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/data/weights/crop_weed_detection.weights" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performing_detection/pytorch/perform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crop_weed_detection_training/crop_weed_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Crop_weed_detection_training/crop_weed_detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/performing_detection/opencv/detection_with_opencv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/performing_detection/opencv/detection_with_opencv.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/performing_detection/pytorch/performing_detection_with_pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/performing_detection/pytorch/performing_detection_with_pytorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VFFA3sbUN3TjU6euy8WWf8W8ay" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/Vivek Sahu/Crop_and_weed_detection/performing_detection/pytorch",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vivek Sahu\Crop_and_weed_detection\performing_detection\pytorch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.perform">
+    <configuration name="perform" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Crop_and_weed_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/performing_detection/pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/performing_detection/pytorch/perform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python" type="PythonConfigurationType" factoryName="Python">
+      <module name="Crop_and_weed_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Vivek Sahu\PycharmProjects\weed\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Crop_and_weed_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/performing_detection/pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/performing_detection/pytorch/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.python" />
+      <item itemvalue="Python.perform" />
+      <item itemvalue="Python.utils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.perform" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0093fdf8-ceb6-4a5e-956b-3e67ed504776" name="Changes" comment="" />
+      <created>1694423775133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694423775133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
